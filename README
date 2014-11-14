@@ -1,0 +1,10 @@
+
+
+boodle-mgr install http://boodler.org/lib/com.eblong.zarf.hardhat.1.0.boop
+boodle-mgr install http://boodler.org/lib/org.boodler.old.misc.1.0.boop
+boodle-mgr install http://boodler.org/lib/org.boodler.manage.1.1.boop
+
+
+boodler --external bootest com.example.bootest/Example
+
+
